@@ -1,5 +1,4 @@
 # Simple QR Encoder
-
 import qrcode
 
 # The variable to store the information
