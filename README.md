@@ -1,6 +1,6 @@
 # Facial Recognition Attendance System
 
-#### Dependancies
+## Dependancies
 pip install opencv-python
 pip install face-recognition
 pip install numpy
